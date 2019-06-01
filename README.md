@@ -1,4 +1,4 @@
 # Python-Basics
-Basic functions used in python.
+Basic functions of python.
 
 Basic operations of numpy library.
